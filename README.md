@@ -49,6 +49,10 @@ The target classes are:
 - Iris Versicolor
 - Iris Virginica
 
+## Streamlit
+
+https://23071247randomforest.streamlit.app/
+
 ## 🚀 How to Run
 
 1. Clone this repository:
